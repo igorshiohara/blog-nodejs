@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "mongoose": "^4.8.4"
   },
   "devDependencies": {
     "gulp-nodemon": "^2.2.1"
